@@ -1,0 +1,4 @@
+{ "action": "oddsportal.getHierarchy"
+, "payload": {"args": [1,2,3]}
+, "priority": "Batch"
+}
